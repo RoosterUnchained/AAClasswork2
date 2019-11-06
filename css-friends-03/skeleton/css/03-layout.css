@@ -1,0 +1,14 @@
+/* PHASE 3: Layout */
+section:before{
+  /* content: " COUCHFVKR :)"; */
+  min-height: 200px;
+}
+
+.content{
+  /* flex: left; */
+  position: relative;
+  margin: 0 auto;
+  width: 900px;
+  background-color: white;
+  min-height: 200px;
+}
